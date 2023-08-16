@@ -1,7 +1,7 @@
 ## Postmortem
 
 ### Issue Summary
-Duration: 1 hour (May 9, 2023, 10:00 AM - 11:00 AM EDT)  
+Duration: August 10, 2023, 09:15 AM - August 10, 2023, 11:30 AM (CAT) 
 Impact: The web application was down, resulting in a complete outage for all users.  
 Root Cause: An unexpected surge in traffic overwhelmed the servers and caused them to crash.
 
